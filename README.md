@@ -10,3 +10,5 @@ The Responsive Phishing Page for Snapchat 2020
 This is purely for the educational purposes and is not intended to hurt anyone
 
 <img src="https://i.imgur.com/MTT09RJ.png">
+
+<img src="https://i.imgur.com/Xk97qXy.png">
