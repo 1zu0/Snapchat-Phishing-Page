@@ -8,3 +8,5 @@ The Responsive Phishing Page for Snapchat 2020
 3. Simply upload the files to your server
 
 This is purely for the educational purposes and is not intended to hurt anyone
+
+<img src="https://imgur.com/MTT09RJ">
